@@ -1,8 +1,8 @@
 const express = require("express");
 const mongoose = require("mongoose");
 
-const mongoDbUri = 
-("mongodb+srv://atlas:Atlaspassword1@cluster0.qcpse6h.mongodb.net/?retryWrites=true&w=majority")
+
+
 const app= express();
 
 mongoose
